@@ -1,0 +1,50 @@
+D:\Secure\ICBT Campus\HND\C#\Total Fitness\Total Fitness\bin\Debug\Total Fitness.exe.config
+D:\Secure\ICBT Campus\HND\C#\Total Fitness\Total Fitness\bin\Debug\Total Fitness.exe
+D:\Secure\ICBT Campus\HND\C#\Total Fitness\Total Fitness\bin\Debug\Total Fitness.pdb
+D:\Secure\ICBT Campus\HND\C#\Total Fitness\Total Fitness\obj\Debug\Total Fitness.csprojResolveAssemblyReference.cache
+D:\Secure\ICBT Campus\HND\C#\Total Fitness\Total Fitness\obj\Debug\Total_Fitness.Properties.Resources.resources
+D:\Secure\ICBT Campus\HND\C#\Total Fitness\Total Fitness\obj\Debug\Total Fitness.csproj.GenerateResource.Cache
+D:\Secure\ICBT Campus\HND\C#\Total Fitness\Total Fitness\obj\Debug\Total Fitness.exe
+D:\Secure\ICBT Campus\HND\C#\Total Fitness\Total Fitness\obj\Debug\Total Fitness.pdb
+D:\Secure\ICBT Campus\HND\C#\Total Fitness\Total Fitness\obj\Debug\Total_Fitness.Customer_Login.resources
+D:\Secure\ICBT Campus\HND\C#\Total Fitness\Total Fitness\obj\Debug\Total_Fitness.Customer_MainWindow.resources
+D:\Secure\ICBT Campus\HND\C#\Total Fitness\Total Fitness\obj\Debug\Total_Fitness.Login.resources
+D:\Secure\ICBT Campus\HND\C#\Total Fitness\Total Fitness\obj\Debug\Total_Fitness.Customer_Registration.resources
+D:\Secure\ICBT Campus\HND\C#\Total Fitness\Total Fitness\obj\Debug\Total_Fitness.Suppliers.resources
+D:\Secure\ICBT Campus\HND\C#\Total Fitness\Total Fitness\obj\Debug\Total_Fitness.Stocks.resources
+D:\Secure\ICBT Campus\HND\C#\Total Fitness\Total Fitness\obj\Debug\Total_Fitness.Administrator_Main.resources
+D:\Secure\ICBT Campus\HND\C#\Total Fitness\Total Fitness\obj\Debug\Total_Fitness.Pharmacy_Main.resources
+J:\Total Fitness\Total Fitness\bin\Debug\Total Fitness.exe.config
+J:\Total Fitness\Total Fitness\obj\Debug\Total Fitness.exe
+J:\Total Fitness\Total Fitness\obj\Debug\Total Fitness.pdb
+J:\Total Fitness\Total Fitness\bin\Debug\Total Fitness.exe
+J:\Total Fitness\Total Fitness\bin\Debug\Total Fitness.pdb
+J:\Total Fitness\Total Fitness\obj\Debug\Total Fitness.csprojResolveAssemblyReference.cache
+J:\Total Fitness\Total Fitness\obj\Debug\Total_Fitness.Administrator_Main.resources
+J:\Total Fitness\Total Fitness\obj\Debug\Total_Fitness.Customer_Login.resources
+J:\Total Fitness\Total Fitness\obj\Debug\Total_Fitness.Customer_MainWindow.resources
+J:\Total Fitness\Total Fitness\obj\Debug\Total_Fitness.Customer_Registration.resources
+J:\Total Fitness\Total Fitness\obj\Debug\Total_Fitness.Login.resources
+J:\Total Fitness\Total Fitness\obj\Debug\Total_Fitness.Pharmacy_Main.resources
+J:\Total Fitness\Total Fitness\obj\Debug\Total_Fitness.Properties.Resources.resources
+J:\Total Fitness\Total Fitness\obj\Debug\Total_Fitness.Stocks.resources
+J:\Total Fitness\Total Fitness\obj\Debug\Total_Fitness.Suppliers.resources
+J:\Total Fitness\Total Fitness\obj\Debug\Total Fitness.csproj.GenerateResource.Cache
+D:\Total Fitness\Total Fitness\bin\Debug\Total Fitness.exe.config
+D:\Total Fitness\Total Fitness\obj\Debug\Total Fitness.exe
+D:\Total Fitness\Total Fitness\obj\Debug\Total Fitness.pdb
+D:\Total Fitness\Total Fitness\bin\Debug\Total Fitness.exe
+D:\Total Fitness\Total Fitness\bin\Debug\Total Fitness.pdb
+D:\Total Fitness\Total Fitness\obj\Debug\Total Fitness.csprojResolveAssemblyReference.cache
+D:\Total Fitness\Total Fitness\obj\Debug\Total_Fitness.Administrator_Main.resources
+D:\Total Fitness\Total Fitness\obj\Debug\Total_Fitness.Customer_Login.resources
+D:\Total Fitness\Total Fitness\obj\Debug\Total_Fitness.Customer_MainWindow.resources
+D:\Total Fitness\Total Fitness\obj\Debug\Total_Fitness.Customer_Registration.resources
+D:\Total Fitness\Total Fitness\obj\Debug\Total_Fitness.Login.resources
+D:\Total Fitness\Total Fitness\obj\Debug\Total_Fitness.Pharmacy_Main.resources
+D:\Total Fitness\Total Fitness\obj\Debug\Total_Fitness.Properties.Resources.resources
+D:\Total Fitness\Total Fitness\obj\Debug\Total_Fitness.Stocks.resources
+D:\Total Fitness\Total Fitness\obj\Debug\Total_Fitness.Suppliers.resources
+D:\Total Fitness\Total Fitness\obj\Debug\Total Fitness.csproj.GenerateResource.Cache
+D:\Total Fitness\Total Fitness\obj\Debug\Total_Fitness.Billing.resources
+D:\Total Fitness\Total Fitness\obj\Debug\Total_Fitness.View_Bills.resources
